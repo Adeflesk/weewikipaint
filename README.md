@@ -3,6 +3,7 @@ WeeWikiPaint
 WeewikiPaint
 
 To build on windows:
+- Install node.js
 - Install git
 - Clone repository
 
